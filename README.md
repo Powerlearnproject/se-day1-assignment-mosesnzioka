@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 ## Q1.
 Explain what software engineering is and discuss its importance in the technology industry.
-softaware engineering is the despline for designing, developing, deploying, mentainance and control of a software system.
+Software engineering is the process of designing, building, testing, and maintaining software. It is a branch of computer science that uses engineering principles to create software that meets user needs
 
 ### Importance of sofware engineering in Technology industry
 
